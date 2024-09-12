@@ -10,10 +10,11 @@
 3. Foundations of Neural Nets
 4. Feed-Forward Nets for NLP
 5. Embedding Words and Types
-6. 
-
-Files Used:
-
+6. Sequence Modeling
+7. Intermediate Sequence Modeling
 
 Resources Used:
-
+[NLP with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
+[spaCy](https://spacy.io/)
+[PyTorch](https://pytorch.org/)
+[NLTK](https://www.nltk.org/)
