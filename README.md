@@ -5,12 +5,12 @@
 
 ### Tutorial Guide
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. Introduction
+2. Traditional NLP model
+3. Foundations of Neural Nets
+4. Feed-Forward Nets for NLP
+5. Embedding Words and Types
+6. 
 
 Files Used:
 
