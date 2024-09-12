@@ -14,6 +14,7 @@
 7. Intermediate Sequence Modeling
 
 Resources Used:
+
 [NLP with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 [spaCy](https://spacy.io/)
